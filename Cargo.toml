@@ -1,0 +1,6 @@
+[package]
+name = "addpath"
+version = "0.1.0"
+authors = ["Vlad Ivanov <vlad@ivanov.email>"]
+
+[dependencies]
